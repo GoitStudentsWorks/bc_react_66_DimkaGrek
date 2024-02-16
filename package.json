@@ -2,7 +2,7 @@
   "name": "ReactAvengers",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dimkagrek.github.io/ReactAvengers/",
+  "homepage": "https://GoitStudentsWorks.github.io/bc_react_66_DimkaGrek/",
   "dependencies": {
     "@hookform/resolvers": "^3.3.4",
     "@reduxjs/toolkit": "^2.1.0",
