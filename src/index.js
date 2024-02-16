@@ -12,7 +12,7 @@ import './index.css';
 ReactDOM.createRoot(document.getElementById('root')).render(
   <Provider store={store}>
     <PersistGate loading={null} persistor={persistor}>
-      <BrowserRouter basename="/ReactAvengers">
+      <BrowserRouter basename="/bc_react_66_DimkaGrek">
         <App />
         <ToastContainer
           theme="dark"
